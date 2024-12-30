@@ -1,2 +1,2 @@
 # ads1118main
-Main file to test ADS1118 ADC written for Bruin Spacecraft Group.
+Main file to test ADS1118 ADC written for Bruin Spacecraft Group at UCLA.
